@@ -7,5 +7,14 @@ A user management system built on Express server in which users can perform crud
 Clone the Repository
 
 ```bash
+https://github.com/jibi966/crud_app.git
 
 ```
+
+## Technologies Used
+
+- Express JS
+- Node JS
+- Mongo DB
+- Express EJS
+- Rest API's
